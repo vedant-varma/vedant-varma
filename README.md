@@ -17,13 +17,19 @@ Beyond coding, I'm an enthusiast of exploring ancient history, gaming, and custo
 ## 🛠 Projects
 
 ### Gyankosh
-- A digital library for ancient scriptures, utilizing Java, Python, SQL, and React.js.
+- Currently, I am working on a digital library for ancient Indian scriptures, utilizing Java, Python, SQL, and React.js. My goal is to leverage OpenAI's GPT-4 capabilities to provide users with deep and enriched analysis of any verse within the scripture.
+- As of now, I have created an MVP of the project which is able to use Tesseract OCR to extract text from the Devanagari script and parse it to the AI API to create an analysis of the scripture. A LOT MORE EXCITING THINGS TO COME!!
 
 ### WhatsApp FinBot
-- An AI-powered chatbot for financial inquiries, built with JavaScript and leveraging Twilio and OpenAI APIs.
+- I have created an AI-powered chatbot for financial inquiries, built with JavaScript and leveraging Twilio and OpenAI APIs. This was a demo that I used to pitch my idea to client companies to integrate AI into a chatbot system which was implemented later on.
 
 ### BondIntel-AI
-- A bond analyzer using Python and Java, incorporating GPT-3.5 for securities analysis.
+- A bond analyzer using Python and Java, incorporating GPT-3.5 for securities analysis. More information is present within the repo.
+
+### StockAdvisorAI
+- I created this stock analyzer to access real time stock data using the Yahoo Finance API and used libraries such as MatPlot to graph stock prices based on real time par. I then integrated the AI API into this project to answer queries regarding metrics.
+- The AI API also helps with metric and price analysis.
+- Demo Video available.
 
 ## 🌟 Leadership & Activities
 
@@ -34,7 +40,6 @@ Beyond coding, I'm an enthusiast of exploring ancient history, gaming, and custo
 
 - **Languages**: Java, C, Python, SQL, JavaScript
 - **Frameworks/Tools**: GitHub, PyTorch, yFinance, OpenAI API
-- **Interests**: Gaming, fashion, ancient history, cooking, watches, custom PC building and modding.
 
 ## 📞 Let's Connect!
 
