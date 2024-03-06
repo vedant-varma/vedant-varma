@@ -2,7 +2,11 @@
 
 ## 🌟 About Me
 
-I'm a Computer Science major with a Minor in Economics at Rutgers University, deeply passionate about the intersection of technology and finance. My journey in tech started with a fascination for understanding how software impacts our daily lives and economies at large. Throughout my academic and project experiences, I've explored areas like AI, software engineering, and fintech, aiming to leverage these technologies to solve real-world challenges. Beyond coding, I'm an enthusiast of ancient history, gaming, and custom PC building. My goal is to continuously learn and apply my knowledge to create innovative solutions that make a difference.
+I was born in New Delhi, India, and moved to the Abu Dhabi, UAE at the age of 9. I grew up in a multinationl and culturally diverse environment and hence developed an immense passion for languages and the different cultures of the world. 
+
+I'm a Computer Science major with a Minor in Economics at Rutgers University, deeply passionate about the intersection of technology and finance. My journey in tech started with my passion for video games and building computers. Throughout my academic and project experiences, I've explored areas like AI, software engineering, and fintech, aiming to leverage these technologies to solve real-world challenges. 
+
+Beyond coding, I'm an enthusiast of exploring ancient history, gaming, and custom PC building. Every year I travel by myself to remote locations all around the world that still have reminiscents of the ancient past. I love reading different scriptures of different mythologies and going to remote locatoins with arhcaelogical ruins (especially the ones all across India!). I am also extremely passionate about video games and PC building, and as a result a lot of my free time is spent either researching ancient civilizations or playing a competitive FPS game.
 
 ## 🎓 Education
 
