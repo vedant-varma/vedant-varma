@@ -1,7 +1,3 @@
-Here's the revised template for your GitHub README page with the "About Me" section added and the "Professional Experience" section removed:
-
----
-
 # Hi, I'm Vedant Varma! 👋
 
 ## 🌟 About Me
