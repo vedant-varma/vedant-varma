@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I was born in New Delhi, India, and moved to the Abu Dhabi, UAE at the age of 9. I grew up in a multinationl and culturally diverse environment and hence developed an immense passion for languages and the different cultures of the world. 
+I was born in New Delhi, India, and moved to Abu Dhabi, UAE at the age of 9. I grew up in a multinationl and culturally diverse environment and hence developed an immense passion for languages and the different cultures of the world. 
 
 I'm a Computer Science major with a Minor in Economics at Rutgers University, deeply passionate about the intersection of technology and finance. My journey in tech started with my passion for video games and building computers. Throughout my academic and project experiences, I've explored areas like AI, software engineering, and fintech, aiming to leverage these technologies to solve real-world challenges. 
 
