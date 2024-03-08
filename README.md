@@ -36,6 +36,13 @@ https://github.com/vedant-varma/vedant-varma/assets/45735992/c15381f3-49aa-4f1b-
 - Currently, I am working on a digital library for ancient Indian scriptures, utilizing Java, Python, SQL, and React.js. My goal is to leverage OpenAI's GPT-4 capabilities to provide users with deep and enriched analysis of any verse within the scripture.
 - As of now, I have created an MVP of the project which is able to use Tesseract OCR to extract text from the Devanagari script and parse it to the AI API to create an analysis of the scripture. A LOT MORE EXCITING THINGS TO COME!!
 
+### Character Generator - AI Image
+- Started working on this OOP heavy project that would allow users to create custom fantasy characters
+- Uses DALL-E 3 API to generate image based on provided description
+- Features that I am working on;
+  1. Build a more interactive GUI
+  2. Use DALL-E 2 edit image to edit pre-existing images
+
 ## 🌟 Leadership & Activities
 
 - **Phi Chi Theta-Alpha Omega**: Promoted DEI initiatives and conducted technical mock interviews.
