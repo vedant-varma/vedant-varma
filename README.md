@@ -6,8 +6,9 @@ I was born in New Delhi, India, and moved to Abu Dhabi, UAE at the age of 9. I g
 
 I'm a Computer Science major with a Minor in Economics at Rutgers University, deeply passionate about the intersection of technology and finance. My journey in tech started with my passion for video games and building computers. Throughout my academic and project experiences, I've explored areas like AI, software engineering, and fintech, aiming to leverage these technologies to solve real-world challenges. 
 
-Beyond coding, I'm an enthusiast of exploring ancient history, gaming, and custom PC building. Every year I travel by myself to remote locations all around the world that still have reminiscents of the ancient past. I love reading different scriptures of different mythologies and going to remote locatoins with arhcaelogical ruins (especially the ones all across India!). I am also extremely passionate about video games and PC building, and as a result a lot of my free time is spent either researching ancient civilizations or playing a competitive FPS game.
+Beyond coding, I'm an enthusiast of exploring ancient history, gaming, timepieces and custom PC building. Every year I travel by myself to remote locations all around the world that still have reminiscents of the ancient past. I love reading different scriptures of different mythologies and going to remote locatoins with arhcaelogical ruins (especially the ones all across India!). I am also extremely passionate about video games and PC building, and as a result a lot of my free time is spent either researching watches, ancient civilizations or playing a competitive FPS game.
 
+I'm currently working on a project to organize and elevate my substantial collection of video games. Apart from coding the software for the interface, I am newly in the process of building a shelf and computer lectern to house the games and the raspberry pi powered system. This is my first time being involved in woodworking of any sort which is super exciting.
 ## 🎓 Education
 
 - **Rutgers University, New Brunswick, NJ**
